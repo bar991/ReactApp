@@ -1,0 +1,10 @@
+.APP > h1{
+text-align: center;
+color: magenta;
+}
+.App >p
+{
+    color: greenyellow;
+    background-color: darkgoldenrod;
+    font-size: large;
+}
